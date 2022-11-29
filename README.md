@@ -1,6 +1,2 @@
 # Scripts Python
- Scripts em Python criados durante vídeo aula do curso em vídeo no youtube - Mundo 1: Fundamentos
-
-Testando alterações
-
-Outro versionamento!
+ Scripts em Python criados durante vídeo aulas do youtube - Mundo 1: Fundamentos
