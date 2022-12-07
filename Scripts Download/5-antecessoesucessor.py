@@ -1,4 +1,4 @@
-# Desafio 5
+# Desafio 5 - Antecessor e sucessor de número
 # Faça um programa que leia um número inteiro e mostre na sua tela o seu antecessor e o seu sucessor
 
 n1=int(input('Insira um número inteiro: '))

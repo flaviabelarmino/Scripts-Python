@@ -1,4 +1,4 @@
-# Desafio 9 
+# Desafio 9 - Tabuada de multiplicação
 #  Faça um programa que leia um número inteiro qualquer e mostre na tela a sua tabuada de multiplicação.
 
 n=int(input('Insira um número: '))

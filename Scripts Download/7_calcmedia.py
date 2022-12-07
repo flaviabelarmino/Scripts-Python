@@ -1,4 +1,4 @@
-# Desafio 7
+# Desafio 7 - Calcular a média
 # Desenvolva um programa que leia as duas notas de um aluno, calcule e mostre a sua média.
 
 n1=float(input('Insira a 1ª nota: '))
