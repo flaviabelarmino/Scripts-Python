@@ -1,4 +1,5 @@
-#Um professor quer sortear um dos seus quatro alunos para apagar o quadro.
+# Desafio 19 - Sorteio
+# Um professor quer sortear um dos seus quatro alunos para apagar o quadro.
 # Faça um programa que ajude ele, lendo o nome deles e escrevendo o nome do escolhido
 
 from random import choices
