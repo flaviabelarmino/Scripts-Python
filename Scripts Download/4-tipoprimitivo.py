@@ -1,5 +1,6 @@
-#Faça um programa que leia algo e mostre na tela
-#O seu tipo primitivo e todas as informações possíveis sobre ele
+# Desafio 4
+# Faça um programa que leia algo e mostre na tela
+# O seu tipo primitivo e todas as informações possíveis sobre ele
 
 a=input('Digite algo: ')
 print('O tipo primitivo é: ',type(a))
