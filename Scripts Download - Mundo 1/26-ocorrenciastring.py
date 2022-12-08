@@ -1,3 +1,4 @@
+# Desafio 26 - Ocorrência de string
 #Faça um programa que leia uma frase pelo teclado e mostre:
 #a)	Quantas vezes aparece a letra “A”.
 #b)	Em que posição ela aparece a primeira vez
