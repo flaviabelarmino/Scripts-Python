@@ -1,4 +1,5 @@
-#Crie um programa que leia o nome completo de uma pessoa e mostre todas as letras maiúsculas, todas minúsculas,
+# Desafio 22 - Letra maiúscula e minúscula
+# Crie um programa que leia o nome completo de uma pessoa e mostre todas as letras maiúsculas, todas minúsculas,
 # quantas letras ao (sem considerar espaços), quantas letras tem o primeiro nome:
 
 nome=str(input("Insira seu nome completo: ")).strip()
