@@ -2,6 +2,11 @@ Exercícios
 
 Desafios – MUNDO 1
 
+1 - Escreva um programa para aprovar o empréstimo bancário para a compra de uma casa. O programa vai perguntar o valor da casa, o salário do comprador e em quantos anos ele vai pagar. Calcule o valor da prestação mensal, sabendo que ela não pode exceder 30% do salário ou então o empréstimo será negado.
+3 - Escreva um programa que leia dois números inteiros e compare-os, mostrando na tela uma mensagem:
+a)	O primeiro valor é maior
+b)	O segundo valor é maior
+c)	Não existe valor maior, os dois são iguais
 5 – Crie um programa que leia duas notas de um aluno e calcule sua média, mostrando uma mensagem no final, de acordo com a média atingida:
 a)	Média abaixo de 5.0: REPROVADO
 b)	Média entre 5.0 e 6.9: RECUPERAÇÃO
