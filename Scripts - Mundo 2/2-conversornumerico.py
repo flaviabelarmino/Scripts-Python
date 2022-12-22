@@ -1,3 +1,9 @@
+#Desafio 2 - Conversor numérico
+#Escreva um programa que leia um número inteiro qualquer e peça para o usuário escolher qual será a base de conversão:
+#a)1 para binário
+#b)2 para octal
+#c)3 para hexadecimal
+
 num = int(input("Insira um número inteiro: "))
 #três aspas para conseguir fazer várias linhas de uma só vez
 print('''Escolha uma das bases para conversão:
