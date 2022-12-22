@@ -7,6 +7,10 @@ Desafios – MUNDO 1
 a)	O primeiro valor é maior
 b)	O segundo valor é maior
 c)	Não existe valor maior, os dois são iguais
+4 – Faça um programa que leia o ano de nascimento de um jovem e informe, de acordo com sua idade (Seu programa também deverá mostrar o tempo que falta ou que passou do prazo):
+a)	Se ele ainda vai se alistar ao serviço militar
+b)	Se é a hora de se alistar
+c)	Se já passou do tempo do alistamento
 5 – Crie um programa que leia duas notas de um aluno e calcule sua média, mostrando uma mensagem no final, de acordo com a média atingida:
 a)	Média abaixo de 5.0: REPROVADO
 b)	Média entre 5.0 e 6.9: RECUPERAÇÃO
