@@ -19,3 +19,10 @@ c)Se já passou do tempo do alistamento
 a)Média abaixo de 5.0: REPROVADO
 b)Média entre 5.0 e 6.9: RECUPERAÇÃO
 c)Média 7.0 ou superior: APROVADO
+6 – A Confederação Nacional de Natação precisa de um programa que leia o ano de nascimento de um atleta e mostre sua categoria, de acordo com a idade:
+a)Até 9 anos: MIRIM
+b)Até 14 anos: INFANTIL
+c)Até 19 anos: JUNIOR
+d)Até 20 anos: SÊNIOR
+e)Acima: MASTER
+
