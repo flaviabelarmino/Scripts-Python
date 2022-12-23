@@ -8,3 +8,4 @@ Scripts em Python criados durante vídeo aulas do youtube - Fundamentos.
 - Cálculos de matemática básica
 - Início de condições com o comando if.
 - [ ] Mundo 2 - Desafios
+- Exercícios condicionais com if, elif e else.
